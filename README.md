@@ -1,5 +1,3 @@
 # ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
-
-My alternate version https://github.com/ardisaurus/old-rest-ci
+Tugas Pertemuan 4 Teknologi Web Service - UBSI
 # tws-4
